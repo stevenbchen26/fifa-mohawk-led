@@ -37,8 +37,8 @@ Because the robot performs in a public festival environment, the development rep
 |---|---|
 | `Mohawk_LED_Controller_v1_9_1.ino` | Standalone test build: full effect set and web UI (the session tracker records v1.9.2 as that day's latest) |
 | `Mohawk_LED_Controller_v2_2.ino` | Recipe defaults baked in; dual-mode standalone / FMS-integrated operation |
-| `docs/Mohawk_LED_Controller_Development_Tracker.pdf` | Progress tracker, May 27, 2026 |
-| `docs/Mohawk_LED_Controller_Development_Report.pdf` | Development report through v2.2, including the full default recipe and the public-safety rules |
+| `Mohawk_LED_Controller_Development_Tracker.pdf` | Progress tracker, May 27, 2026 |
+| `Mohawk_LED_Controller_Development_Report.pdf` | Development report through v2.2, including the full default recipe and the public-safety rules |
 
 ## Engineering notes
 
